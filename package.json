@@ -9,7 +9,7 @@
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
-  "homepage":"https://karbin92.github.io/mernstack",
+  "homepage":"https://karbin92.github.io/mernstack/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
