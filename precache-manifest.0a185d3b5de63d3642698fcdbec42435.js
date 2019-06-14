@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26c28271184a66f29b71b63feaa0a707",
+    "revision": "3c049edb58e3d70fb734f19ca74b9ebd",
     "url": "/mernstack/index.html"
   },
   {
