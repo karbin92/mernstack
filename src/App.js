@@ -10,7 +10,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://artportalen.se"
           target="_blank"
           rel="noopener noreferrer"
         >
